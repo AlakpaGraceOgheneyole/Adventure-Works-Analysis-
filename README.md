@@ -5,4 +5,4 @@ I cleaned and prepared the dataset before developing interactive visualizations,
 The dashboard enables users to interactively filter the data and explore key business trends, making it easier to identify high-performing product areas, changes in profitability, customer contribution, and opportunities for improved business performance.
 Tools & Skills: Power BI, Data Cleaning, Data Analysis, Data Visualization, PivotTables, DAX, Interactive Dashboards, Slicers, KPI Analysis, and Business Intelligence.
 
-![dashboard](dashboard.jpg)
+![Dashboard](Dashboard.PNG)
